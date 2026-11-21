@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Youssef Ashour 👋
 
-<!--
-**youssef-m-ashour/youssef-m-ashour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Analysis Student at the Faculty of Computers and Information, Suez Canal University, Egypt.
 
-Here are some ideas to get you started:
+💻 Interested in Python, Data Analytics, Artificial Intelligence, and Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+- **Programming Languages:** Python, C++
+- **Data Analysis:** NumPy, Pandas, Matplotlib, Seaborn
+- **Databases:** SQL, PostgreSQL, MySQL
+- **Web Development:** HTML, CSS, JavaScript, Django
+- **Tools:** Git, GitHub
+
+## 🚀 Projects
+- **Pharmacy Database System:** A database design project for managing a pharmacy with multiple branches.
+- **E-commerce Platform:** A web development project using Django as part of the ITI Web Development Using Python & Generative AI program.
+
+## 🌱 Currently Exploring
+- Machine Learning
+- Generative AI
+
+## 📫 Connect with Me
+- LinkedIn: [Youssef Ashour](https://www.linkedin.com/in/youssef-m-ashour)
