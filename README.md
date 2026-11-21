@@ -13,7 +13,7 @@
 
 ## 🚀 Projects
 - **Pharmacy Database System:** A database design project for managing a pharmacy with multiple branches.
-- **E-commerce Platform:** A web development project using Django as part of the ITI Web Development Using Python & Generative AI program.
+- **[E-commerce Platform](https://github.com/youssef-m-ashour/django-ecommerce):** A web development project using Django as part of the ITI Web Development Using Python & Generative AI program.
 
 ## 🌱 Currently Exploring
 - Machine Learning
