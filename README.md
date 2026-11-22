@@ -12,8 +12,10 @@
 - **Tools:** Git, GitHub
 
 ## 🚀 Projects
-- **Pharmacy Database System:** A database design project for managing a pharmacy with multiple branches.
 - **[E-commerce Platform](https://github.com/youssef-m-ashour/django-ecommerce):** A web development project using Django as part of the ITI Web Development Using Python & Generative AI program.
+- **[C++ Projects](https://github.com/youssef-m-ashour/cpp-projects):** Hospital management system, chat application, and bank account, built with OOP and data structures.
+- **[Python Projects](https://github.com/youssef-m-ashour/python-projects):** Gym level tracker and student grades manager.
+- **Pharmacy Database System:** A database design project for managing a pharmacy with multiple branches.
 
 ## 🌱 Currently Exploring
 - Machine Learning
